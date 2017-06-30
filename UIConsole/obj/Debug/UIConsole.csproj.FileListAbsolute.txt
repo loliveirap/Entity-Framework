@@ -59,9 +59,6 @@ I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\b
 C:\Users\UNIP\Documents\MVC 4\Curso MVC 4 - Cleyton Ferrari\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\UIConsole.exe.config
 C:\Users\UNIP\Documents\MVC 4\Curso MVC 4 - Cleyton Ferrari\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\obj\Debug\UIConsole.exe
 C:\Users\UNIP\Documents\MVC 4\Curso MVC 4 - Cleyton Ferrari\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\obj\Debug\UIConsole.pdb
-F:\Projetos\UIConsole\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
-F:\Projetos\UIConsole\UIConsole\obj\Debug\UIConsole.exe
-F:\Projetos\UIConsole\UIConsole\obj\Debug\UIConsole.pdb
 F:\Projetos\UIConsole\UIConsole\bin\Debug\UIConsole.exe.config
 F:\Projetos\UIConsole\UIConsole\bin\Debug\UIConsole.exe
 F:\Projetos\UIConsole\UIConsole\bin\Debug\UIConsole.pdb
@@ -70,6 +67,7 @@ F:\Projetos\UIConsole\UIConsole\bin\Debug\Dominio.dll
 F:\Projetos\UIConsole\UIConsole\bin\Debug\Repositorio.dll
 F:\Projetos\UIConsole\UIConsole\bin\Debug\Aplicacao.pdb
 F:\Projetos\UIConsole\UIConsole\bin\Debug\Dominio.pdb
-F:\Projetos\UIConsole\UIConsole\bin\Debug\EntityFramework.xml
-F:\Projetos\UIConsole\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
 F:\Projetos\UIConsole\UIConsole\bin\Debug\Repositorio.pdb
+F:\Projetos\UIConsole\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+F:\Projetos\UIConsole\UIConsole\obj\Debug\UIConsole.exe
+F:\Projetos\UIConsole\UIConsole\obj\Debug\UIConsole.pdb
