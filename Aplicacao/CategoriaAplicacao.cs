@@ -2,7 +2,7 @@
 using Repositorio;
 using System.Collections.Generic;
 using System.Linq;
-
+//Teste
 namespace Aplicacao
 {
     public class CategoriaAplicacao
