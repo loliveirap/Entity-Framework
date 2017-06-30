@@ -1,0 +1,14 @@
+F:\Projetos\UIConsole\Repositorio\bin\Debug\Repositorio.dll.config
+F:\Projetos\UIConsole\Repositorio\bin\Debug\Repositorio.dll
+F:\Projetos\UIConsole\Repositorio\bin\Debug\Repositorio.pdb
+F:\Projetos\UIConsole\Repositorio\bin\Debug\Dominio.dll
+F:\Projetos\UIConsole\Repositorio\bin\Debug\EntityFramework.dll
+F:\Projetos\UIConsole\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projetos\UIConsole\Repositorio\bin\Debug\Dominio.pdb
+F:\Projetos\UIConsole\Repositorio\bin\Debug\EntityFramework.xml
+F:\Projetos\UIConsole\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projetos\UIConsole\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+F:\Projetos\UIConsole\Repositorio\obj\Debug\Repositorio.Migrations.BdInicial.resources
+F:\Projetos\UIConsole\Repositorio\obj\Debug\Repositorio.csproj.GenerateResource.Cache
+F:\Projetos\UIConsole\Repositorio\obj\Debug\Repositorio.dll
+F:\Projetos\UIConsole\Repositorio\obj\Debug\Repositorio.pdb

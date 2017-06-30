@@ -1,0 +1,4 @@
+F:\Projetos\UIConsole\Dominio\bin\Debug\Dominio.dll
+F:\Projetos\UIConsole\Dominio\bin\Debug\Dominio.pdb
+F:\Projetos\UIConsole\Dominio\obj\Debug\Dominio.dll
+F:\Projetos\UIConsole\Dominio\obj\Debug\Dominio.pdb

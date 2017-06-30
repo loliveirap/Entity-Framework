@@ -1,0 +1,75 @@
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe.config
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\bin\Debug\UIConsole.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\obj\Debug\UIConsole.exe
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\obj\Debug\UIConsole.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\bin\Debug\EntityFramework.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\bin\Debug\EntityFramework.xml
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\obj\Debug\UIConsole.Migrations.InitialCreate.resources
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\obj\Debug\UIConsole.csproj.GenerateResource.Cache
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto\UIConsole\obj\Debug\UIConsole.Migrations.AdicionadoCategoria.resources
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\bin\Debug\UIConsole.exe.config
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\obj\Debug\UIConsole.exe
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\obj\Debug\UIConsole.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\obj\Debug\UIConsole.Migrations.InitialCreate.resources
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\obj\Debug\UIConsole.Migrations.AdicionadoCategoria.resources
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\obj\Debug\UIConsole.csproj.GenerateResource.Cache
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\bin\Debug\UIConsole.exe
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\bin\Debug\UIConsole.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\bin\Debug\EntityFramework.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\bin\Debug\EntityFramework.xml
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 2\UIConsole\obj\Debug\UIConsole.Migrations.RefatoradoCategoria.resources
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\bin\Debug\UIConsole.exe.config
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\obj\Debug\UIConsole.exe
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\obj\Debug\UIConsole.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\bin\Debug\UIConsole.exe
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\bin\Debug\UIConsole.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\bin\Debug\EntityFramework.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\bin\Debug\EntityFramework.xml
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\obj\Debug\UIConsole.Migrations.InitialCreate.resources
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\obj\Debug\UIConsole.Migrations.AdicionadoCategoria.resources
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\obj\Debug\UIConsole.Migrations.RefatoradoCategoria.resources
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\obj\Debug\UIConsole.csproj.GenerateResource.Cache
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 3\UIConsole\obj\Debug\UIConsole.Migrations.AdicionadoListaDeProdutos.resources
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\UIConsole.exe.config
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\obj\Debug\UIConsole.exe
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\obj\Debug\UIConsole.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\UIConsole.exe
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\UIConsole.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\Aplicacao.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\Dominio.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\EntityFramework.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\Repositorio.dll
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\Aplicacao.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\Dominio.pdb
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\EntityFramework.xml
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+I:\Meus_Documentos\Curso MVC 4\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\Repositorio.pdb
+C:\Users\UNIP\Documents\MVC 4\Curso MVC 4 - Cleyton Ferrari\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\bin\Debug\UIConsole.exe.config
+C:\Users\UNIP\Documents\MVC 4\Curso MVC 4 - Cleyton Ferrari\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\obj\Debug\UIConsole.exe
+C:\Users\UNIP\Documents\MVC 4\Curso MVC 4 - Cleyton Ferrari\EF MVC 4\Projetos\MeuProjeto - Aula 4\UIConsole\obj\Debug\UIConsole.pdb
+F:\Projetos\UIConsole\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+F:\Projetos\UIConsole\UIConsole\obj\Debug\UIConsole.exe
+F:\Projetos\UIConsole\UIConsole\obj\Debug\UIConsole.pdb
+F:\Projetos\UIConsole\UIConsole\bin\Debug\UIConsole.exe.config
+F:\Projetos\UIConsole\UIConsole\bin\Debug\UIConsole.exe
+F:\Projetos\UIConsole\UIConsole\bin\Debug\UIConsole.pdb
+F:\Projetos\UIConsole\UIConsole\bin\Debug\Aplicacao.dll
+F:\Projetos\UIConsole\UIConsole\bin\Debug\Dominio.dll
+F:\Projetos\UIConsole\UIConsole\bin\Debug\Repositorio.dll
+F:\Projetos\UIConsole\UIConsole\bin\Debug\Aplicacao.pdb
+F:\Projetos\UIConsole\UIConsole\bin\Debug\Dominio.pdb
+F:\Projetos\UIConsole\UIConsole\bin\Debug\EntityFramework.xml
+F:\Projetos\UIConsole\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projetos\UIConsole\UIConsole\bin\Debug\Repositorio.pdb
